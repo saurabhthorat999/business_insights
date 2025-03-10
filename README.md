@@ -1,4 +1,5 @@
 # Sales Performance Enhancement - Atliq Hardwares
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQ4Y2YwYjctMDE0Mi00ZmFhLTk2NGYtZWJlYzU2MDJhN2I5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e39ec3d464949d00e582)
 
 ## Company Background
 AtliQ Hardware is a global manufacturer and seller of computer hardware and peripherals, including PCs, mouse, and printers.
